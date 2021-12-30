@@ -40,8 +40,10 @@ Questions
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
 
 2. What variable has a new value assigned to it after the first if statement executes?
+//bearClothing
 
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
+//"scarf"
 
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
 
